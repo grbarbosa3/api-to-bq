@@ -1,6 +1,6 @@
 # API to BigQuery – OpenSky (SJC Airspace)
 
-**Why**: Project about flights on my city São José dos Campos.  
+## Project about flights on my city São José dos Campos.  
 **Stack**: Python, BigQuery (MERGE), logging, validações, CLI.
 
 ## How to Run
